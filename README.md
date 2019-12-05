@@ -1,2 +1,2 @@
-# applying_python
+# 파이썬을 활용한 시리즈 / applying_python
 학부 연수생으로서 배운 교재를 정리한 곳입니다.
